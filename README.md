@@ -1,1 +1,7 @@
-# movies
+![image](https://user-images.githubusercontent.com/87343462/212038094-75fc3d00-97d4-4bf0-8a17-10bc85214c70.png)
+![image](https://user-images.githubusercontent.com/87343462/212038196-6f8a2db8-9d82-4285-adc1-db085951ae5c.png)
+![image](https://user-images.githubusercontent.com/87343462/212038482-49227e13-4579-4257-ae36-3c9226a48728.png)
+![image](https://user-images.githubusercontent.com/87343462/212038578-796cd265-681c-45e6-bcfd-e95a3c83f6c1.png)
+![image](https://user-images.githubusercontent.com/87343462/212038658-e8487775-783f-4529-8107-d50112e792c0.png)
+![image](https://user-images.githubusercontent.com/87343462/212038732-c22cbefe-8673-47e4-80af-3533dc7cac72.png)
+![image](https://user-images.githubusercontent.com/87343462/212038774-3f4d7546-d908-4d17-83ca-533fb13f46e1.png)
